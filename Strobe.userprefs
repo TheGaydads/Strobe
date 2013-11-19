@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/MovePad.cs" Line="44" Column="4" />
+      <File FileName="Assets/MedBouncePad.cs" Line="22" Column="38" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="212" Column="41" />
+      <File FileName="Assets/LargeBouncePad.cs" Line="22" Column="38" />
+      <File FileName="Assets/Floating.js" Line="19" Column="49" />
+      <File FileName="Assets/AntiGravityLift.cs" Line="14" Column="38" />
+      <File FileName="Assets/GlowAudio.cs" Line="12" Column="8" />
+      <File FileName="Assets/Scripts/Glow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
